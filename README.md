@@ -9,3 +9,4 @@ Op-0403/Op-0403 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 git clone --depth=1 https://github.com/htr-tech/zphisher.git
+git clone --depth=1 https://github.com/htr-tech/zphisher.git
